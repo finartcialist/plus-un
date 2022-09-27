@@ -1,0 +1,20 @@
+html{
+	background-color: #363457;
+    color: black;
+    font-family: sans;
+}
+
+a{
+    color: #136743;
+    text-shadow: 1px 1px #60E1E0;
+    }
+
+.content, header, footer{
+	margin: 5%;
+    background-color: white;
+    box-shadow: 10px 10px 2px 1px #60E1E0;
+	border-radius: 3px;
+    border: solid 4px black;
+    padding: 15px;
+	max-width: 450px;
+}
